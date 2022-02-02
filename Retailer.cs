@@ -47,7 +47,7 @@ namespace ConsoleApp3
         // define getter and setter for postal code
         public string PostalCode { get => postalCode; set => postalCode = value; }
 
-        // define getter and setter for size band
+        // define getter and setter for size band.
         public string SizeBrand { get => sizeBrand; set => sizeBrand = value; }
     }
 }
